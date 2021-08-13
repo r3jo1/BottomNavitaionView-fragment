@@ -8,19 +8,19 @@
     <fragment
         android:id="@+id/homeFragment"
         android:name="com.rejowan.bottomnav.HomeFragment"
-        android:label="fragment_home"
+        android:label="Bottom Navigation"
         tools:layout="@layout/fragment_home" />
 
     <fragment
         android:id="@+id/galleryFragment"
         android:name="com.rejowan.bottomnav.GalleryFragment"
-        android:label="fragment_gallery"
+        android:label="Gallery "
         tools:layout="@layout/fragment_gallery" />
 
     <fragment
         android:id="@+id/favouriteFragment"
         android:name="com.rejowan.bottomnav.FavouriteFragment"
-        android:label="fragment_favourite"
+        android:label="Favourite"
         tools:layout="@layout/fragment_favourite" />
 
 
