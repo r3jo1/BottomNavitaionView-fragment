@@ -8,6 +8,10 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.BottomNav" />
+        android:theme="@style/Theme.BottomNav">
+        <activity
+            android:name=".Home"
+            android:exported="true" />
+    </application>
 
 </manifest>
