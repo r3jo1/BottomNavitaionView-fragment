@@ -1,4 +1,4 @@
-# BottomNavigationView with Navigation UI
+# Fragment Switch using BottomNavigationView (Navigation UI)
 ### BottomNavigationView, NavController, Fragments
 
 [![platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com)
