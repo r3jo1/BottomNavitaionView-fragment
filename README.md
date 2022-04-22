@@ -14,6 +14,14 @@ In this project, I've created a `bottom navigation bar` using the `Navigation UI
 <img src="https://user-images.githubusercontent.com/42619122/129338276-4ce9c64e-d313-4f28-93c8-3813b7ae0ded.png" width="300px"/>
 
 
+### Library Used
+
+```
+implementation 'androidx.navigation:navigation-fragment:2.3.5'
+implementation 'androidx.navigation:navigation-ui:2.3.5'
+```
+    
+
 ### License
 * [Apache Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
 
