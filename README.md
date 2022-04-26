@@ -8,6 +8,7 @@
  
 In this project, I've created a `bottom navigation bar` using the `Navigation UI` to switch between `fragments`. It's much easier than using the traditional viewpager and adapter. Just downlaod and use. 
 
+
 <b> Simple, Easy, Material Design </b>
 
 ### Screenshot
